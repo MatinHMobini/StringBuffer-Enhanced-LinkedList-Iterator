@@ -1,5 +1,5 @@
 
-# ITIStringBuffer & Enhanced LinkedList Iterator 
+# StringBuffer & Enhanced LinkedList Iterator 
 
 ## Project Overview
 
