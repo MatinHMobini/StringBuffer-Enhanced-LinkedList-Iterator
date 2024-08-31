@@ -51,11 +51,15 @@ In this part, we implement a recursive method `count(E fromElement, E toElement)
 
 To compile and run the test cases for `ITIStringBuffer` and iterator enhancements:
 
+first navigate to desired folder (example: cd StringBuffer)
 ```bash
-javac Q1.java Q2.java Q3.java
-java Q1
-java Q2
-java Q3
+javac *.java
+```
+After compiling all needed files, you may run the test file within each folder
+```bash
+(String Buffer): java Q1
+(iterator): java Q2
+(Recursive List Processing): java Q3
 ```
 
 These commands will compile and run the respective test cases, showcasing the functionality of the custom string buffer and enhanced iterator methods.
